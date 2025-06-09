@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>mla.green — Podcast engagé</title>
+    <link>https://www.mla.green</link>
+    <language>fr</language>
+    <copyright>© 2025 mla.green — tous droits réservés</copyright>
+    <itunes:author>mla.green</itunes:author>
+    <itunes:summary>Podcast poétique, politique et performatif — pour un marxisme écologique et antimilitariste.</itunes:summary>
+    <description>Podcast poétique, politique et performatif proposé par mla.green</description>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>mla.green</itunes:name>
+      <itunes:email>contact@mla.green</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.mla.green/cover.jpg"/>
+    <itunes:category text="Society & Culture">
+      <itunes:category text="Philosophy"/>
+    </itunes:category>
+    <itunes:category text="Government"/>
+    <atom:link href="https://www.mla.green/feed.rss" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 22:00:00 +0000</lastBuildDate>
+    <generator>ChatGPT Apple Podcast Feed Generator</generator>
+
+    <item>
+      <title>Épisode 1 — Marxisme écologique et désarmement</title>
+      <link>https://www.mla.green/episodes/1</link>
+      <guid>https://www.mla.green/episodes/1</guid>
+      <pubDate>Sun, 19 May 2025 10:00:00 +0000</pubDate>
+      <enclosure url="https://www.mla.green/audio/episode1.mp3" length="27258921" type="audio/mpeg"/>
+      <itunes:duration>12:34</itunes:duration>
+      <itunes:author>mla.green</itunes:author>
+      <itunes:summary>
+        Épisode d’ouverture de la série Lignes de feu, qui pose les bases d’un marxisme écologique et antimilitariste.
+      </itunes:summary>
+      <description><![CDATA[
+        Ce premier épisode de la série <em>Lignes de feu</em> pose les fondations d’un manifeste poétique et politique pour un marxisme écologique et antimilitariste.  
+        <br/><br/>
+        Entre nappes sonores et souffle de voix, le texte explore l’emprise du militarisme sur nos récits, nos corps et nos territoires — et appelle à désarmer, au sens large : désarmer les arsenaux, les esprits, et les réflexes virils.  
+        <br/><br/>
+        « La paix n’est pas un silence. C’est un soulèvement. »  
+        <br/><br/>
+        <a href="https://www.mla.green/audio/episode1.mp3">Écouter l’épisode</a>
+      ]]></description>
+      <content:encoded><![CDATA[
+        <p>Ce premier épisode de la série <em>Lignes de feu</em> pose les fondations d’un manifeste poétique et politique pour un marxisme écologique et antimilitariste.</p>
+        <p><a href="https://www.mla.green/audio/episode1.mp3">Écouter l’épisode</a></p>
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
